@@ -1,0 +1,1 @@
+[03-Oct-2020 15:30:47 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/labibrmalcom/public_html/gaz/app/Http/Requests/Product/ProductRequest.php on line 7

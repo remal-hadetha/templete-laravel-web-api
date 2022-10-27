@@ -1,0 +1,1 @@
+[04-Oct-2020 19:46:59 UTC] PHP Fatal error:  Interface 'App\Repositories\Product\ProductInterface' not found in /home/labibrmalcom/public_html/gaz/app/Repositories/Product/ProductRepository.php on line 9

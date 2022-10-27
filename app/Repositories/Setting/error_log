@@ -1,0 +1,1 @@
+[03-Oct-2020 22:13:41 UTC] PHP Fatal error:  Interface 'App\Repositories\Setting\SettingInterface' not found in /home/labibrmalcom/public_html/gaz/app/Repositories/Setting/SettingRepository.php on line 9
